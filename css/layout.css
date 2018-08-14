@@ -26,6 +26,7 @@
 
 .col-1 {
   width: 32.33%;
+  display: inline;
   float: right;
 }
 

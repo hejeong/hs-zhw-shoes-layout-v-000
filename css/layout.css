@@ -28,16 +28,16 @@
   width: 32.33%;
   display: block;
   float: right;
-  margin-top: 4px;
+  margin-bottom: 8px;
   margin-right: 8px;
 }
 
 .col-2 {
   width: 65.66%;
   float: left;
+  margin-bottom: 8px;
 }
 
 .archive {
   height: 560px;
 }
-

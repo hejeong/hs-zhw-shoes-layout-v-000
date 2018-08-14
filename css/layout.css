@@ -35,3 +35,7 @@
   width: 65.66%;
   float: left;
 }
+
+.archive {
+  max-height: 580 px;
+}

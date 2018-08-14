@@ -26,6 +26,7 @@
 
 .col-1 {
   width: 33.33%;
+  float: right;
 }
 
 .col-2 {
